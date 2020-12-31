@@ -1,3 +1,3 @@
 # Football-League-Visualization-and-Analysis
 ---
-![slide 1](/images/Slide1.png)
+![ ](https://github.com/sharathcmrk/Football-League-Visualization-and-Analysis/blob/main/images/Slide1.PNG)
